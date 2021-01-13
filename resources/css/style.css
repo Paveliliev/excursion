@@ -1,0 +1,30 @@
+body {
+	background-color:black;
+	text-align:center;
+}
+.link {
+	color:aquamarine;
+	font-size:16px;
+}
+h1 {
+	Font-family: Verdana;
+	Font-Weight:Normal;
+	Font-size: 50px;
+	color:white;
+	text-align: center;
+}
+h2 {
+	Font-family: Verdana;
+	Font-Weight:300;
+	Font-size: 42px;
+	color:white;
+	text-align: center;
+}
+p{
+	font-family:verdana;
+	color:gray;
+	font-size:21px;
+}
+footer {
+	text-align:right;
+}
